@@ -1,4 +1,4 @@
-# solid_examples
+# SOLID
 
 1. Single responsibility principle
 2. Open/closed principle
